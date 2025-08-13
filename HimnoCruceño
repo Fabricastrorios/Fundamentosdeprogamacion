@@ -1,0 +1,12 @@
+#include <iostream> //Libreria para escribir y leer
+using namespace std; //Que la entrada va por el teclado y la salida es el monitor
+
+int main()
+{
+    cout<<"Bajo el cielo mas puro de America" <<endl;
+    cout<<"Y en la tierra de Ñuflo de Chavez" <<endl;
+    cout<<"Libertad van trinando las aves" <<endl;
+    cout<<"De su veste ostentando el primor" <<endl;
+
+    return 0;
+}
